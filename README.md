@@ -55,6 +55,10 @@ Metro bundler
 Cookies
 Cache
 cook
+##Screenshot
+![image](https://github.com/addo-bless/rn-assignment3-11212478/assets/170148514/f0fac1c1-bbf0-4a65-aca0-f9bca93723e1)
+![WhatsApp Image 2024-06-01 at 12 53 30](https://github.com/addo-bless/rn-assignment3-11212478/assets/170148514/809c5007-e88b-4407-9763-f4e9bb5c5f3b)
+
 
 Running the App
 To run the app, follow these steps:
